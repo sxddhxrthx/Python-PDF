@@ -1,6 +1,4 @@
-# code to split pdf 
-
-#this change should reflect in main branch
+# code to split pdf
 
 from PyPDF2 import PdfFileWriter, PdfFileReader
 import os, sys
