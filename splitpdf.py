@@ -1,4 +1,4 @@
-# code to split pdf
+#split pdf
 
 from PyPDF2 import PdfFileWriter, PdfFileReader
 import os, sys

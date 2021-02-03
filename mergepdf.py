@@ -1,3 +1,5 @@
+#mergepdf
+
 import PyPDF2
 import sys
 
