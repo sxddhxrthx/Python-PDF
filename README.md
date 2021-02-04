@@ -20,7 +20,7 @@ In case all the PDF files you want to merge are in the same directory as that of
 This will generate a pdf file named "COMBINED.pdf" which will have content merged from all the pdf files mentioned in the command.
 
 ***
-### Splitting files.
+### Splitting files
 
 In order to split single PDF file into a multiple files, open command prompt/terminal window and type the below command and press enter:
 
