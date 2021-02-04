@@ -3,6 +3,10 @@ Python program to split a PDF file into multiple PDF files and to merge multiple
 
 ## Usage:
 
+Make sure Python is intalled in your system. Go ahead and install PyPDF2 library using pip:
+
+> **pip install PyPDF2**
+
 ### Merging files
 
 In order to merge multiple PDF files into a single file, open command prompt/terminal window and type the below command and press enter:
