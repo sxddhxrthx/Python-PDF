@@ -6,7 +6,7 @@ import sys
 inputs = sys.argv[1:]
 
 def mergepdf(pdf_list):
-	merger_object = PyPDF2.PdfFileMerger()
+	merger_object = PyPDF2.PdfMerger()
 	for pdf in pdf_list:
 		print(pdf)
 		merger_object.append(pdf)
